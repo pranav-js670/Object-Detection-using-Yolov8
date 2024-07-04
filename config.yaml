@@ -1,0 +1,7 @@
+path : C:\Users\jspra\Downloads\Alpaca detection.v2i.yolov8
+train : C:\Users\jspra\Downloads\Alpaca detection.v2i.yolov8\train\images
+val :  C:\Users\jspra\Downloads\Alpaca detection.v2i.yolov8\train\images
+
+#classes
+names:
+  0: alpaca
